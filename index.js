@@ -1,3 +1,4 @@
+require('dotenv').config();
 const { Client, MessageAttachment } = require('discord.js');
 const config = require('./config.json');
 
@@ -16,4 +17,4 @@ client.on('message', msg => {
   }
 });
 
-client.login(config.token);
+client.login(process.env.TOKEN);

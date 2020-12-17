@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pgrenon1/crashcat/issues"
   },
-  "homepage": "https://github.com/pgrenon1/crashcat#readme"
+  "homepage": "https://github.com/pgrenon1/crashcat#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
 }
