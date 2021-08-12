@@ -1,0 +1,56 @@
+{
+    "Villains": {
+        "channel": "815009699233005568",
+        "ASTRONEER": {
+            "appid": 361420,
+            "name": "ASTRONEER",
+            "discount": 23,
+            "last_announcement": 35
+        },
+        "Roboquest": {
+            "appid": 692890,
+            "name": "Roboquest",
+            "discount": 20,
+            "last_announcement": 20
+        },
+        "Risk of Rain 2": {
+            "appid": 632360,
+            "name": "Risk of Rain 2",
+            "discount": 25,
+            "last_announcement": 33
+        },
+        "Ashen": {
+            "appid": 649950,
+            "name": "Ashen",
+            "discount": 50,
+            "last_announcement": 60
+        },
+        "Golf With Your Friends": {
+            "appid": 431240,
+            "name": "Golf With Your Friends",
+            "discount": 25,
+            "last_announcement": 50
+        },
+        "Gloomhaven": {
+            "appid": 780290,
+            "name": "Gloomhaven",
+            "discount": 40,
+            "last_announcement": 100
+        }
+    },
+    "Metric Empire": {
+        "channel": "509452753303502848",
+        "Gloomhaven": {
+            "appid": 780290,
+            "name": "Gloomhaven",
+            "discount": 50,
+            "last_announcement": 100
+        },
+        "Fae Tactics": {
+            "appid": 995980,
+            "name": "Fae Tactics",
+            "discount": 50,
+            "last_announcement": 100
+        }
+    }
+}
